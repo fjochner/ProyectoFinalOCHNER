@@ -1,0 +1,7 @@
+{
+    "Acompaniamientos":[
+        {"id": 201, "nombre": "Papas fritas", "precio": 1000, "descripcion": "Acompañamiento de papas fritas solas."},
+        {"id": 202, "nombre": "Papas fritas con cheddar y bacon", "precio": 1200, "descripcion": "Acompañamiento de papas fritas con queso cheddar y bacon."},
+        {"id": 203, "nombre": "Ensalada Mixta", "precio": 1500, "descripcion": "Acompañamiento de ensalada mixta de Lechuga, Tomate y Cebolla."}
+    ]
+}

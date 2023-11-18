@@ -1,0 +1,7 @@
+{
+    "Hamburguesas":[
+        {"id": 101, "nombre": "Hamburguesa simple", "precio": 1000, "descripcion": "Hamburguesa con 100 gramos de carne 100% vacuna sola."},
+        {"id": 102, "nombre": "Hamburguesa a caballo", "precio": 2000, "descripcion": "Hamburguesa con 100 gramos de carne 100% vacuna con huevo frito."},
+        {"id": 103, "nombre": "Cheeseburger", "precio": 2300, "descripcion": "Hamburguesa con 100 gramos de carne 100% vacuna con queso cheddar."}
+    ]
+}
